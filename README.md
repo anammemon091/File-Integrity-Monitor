@@ -19,4 +19,4 @@ A simple **File Integrity Monitoring (FIM) tool** built with Python, demonstrati
 1. Install Python 3.10 or above  
 2. Clone the repository:
 ```bash
-git clone https://github.com/your-username/File-Integrity-Monitor.git
+git clone https://github.com/anammemon091/File-Integrity-Monitor.git
